@@ -1,7 +1,7 @@
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QPZVGPPDRDWCY)
 
 
-The master branch of the repo, contains a new filemanager, but the additional plugins dont work yet, as I need to rewrite them according to the new filemanager code.
+
+Repo contains a new filemanager, but the additional plugins dont work yet, needed to be rewritten according to the new filemanager code.
 
 # rutorrent-thirdparty-plugins
 Plugins for ruTorrent web client, filemanager, fileshare, fileupload, mediastream
